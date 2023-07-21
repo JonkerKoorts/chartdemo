@@ -1,0 +1,114 @@
+{
+  "techStacks": [
+    {
+      "name": "MERN",
+      "languages": ["JavaScript"],
+      "librariesFrameworks": ["MongoDB", "Express.js", "React.js", "Node.js"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 65 },
+        { "year": 2021, "popularity": 80 },
+        { "year": 2022, "popularity": 89 },
+        { "year": 2023, "popularity": 78 }
+      ]
+    },
+    {
+      "name": "MEAN",
+      "languages": ["JavaScript"],
+      "librariesFrameworks": ["MongoDB", "Express.js", "Angular", "Node.js"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 55 },
+        { "year": 2021, "popularity": 85 },
+        { "year": 2022, "popularity": 79 },
+        { "year": 2023, "popularity": 60 }
+      ]
+    },
+    {
+      "name": "LAMP",
+      "languages": ["PHP", "SQL"],
+      "librariesFrameworks": ["Linux", "Apache", "MySQL", "PHP"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 78 },
+        { "year": 2021, "popularity": 56 },
+        { "year": 2022, "popularity": 92 },
+        { "year": 2023, "popularity": 44 }
+      ]
+    },
+    {
+      "name": "LEMP",
+      "languages": ["PHP", "SQL"],
+      "librariesFrameworks": ["Linux", "Nginx", "MySQL", "PHP"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 78 },
+        { "year": 2021, "popularity": 80 },
+        { "year": 2022, "popularity": 77 },
+        { "year": 2023, "popularity": 80 }
+      ]
+    },
+    {
+      "name": "Django",
+      "languages": ["Python"],
+      "librariesFrameworks": ["Django"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 68 },
+        { "year": 2021, "popularity": 70 },
+        { "year": 2022, "popularity": 67 },
+        { "year": 2023, "popularity": 70 }
+      ]
+    },
+    {
+      "name": "Flask",
+      "languages": ["Python"],
+      "librariesFrameworks": ["Flask"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 68 },
+        { "year": 2021, "popularity": 70 },
+        { "year": 2022, "popularity": 67 },
+        { "year": 2023, "popularity": 70 }
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "languages": ["Ruby"],
+      "librariesFrameworks": ["Rails"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 68 },
+        { "year": 2021, "popularity": 70 },
+        { "year": 2022, "popularity": 67 },
+        { "year": 2023, "popularity": 70 }
+      ]
+    },
+    {
+      "name": ".NET",
+      "languages": ["C#"],
+      "librariesFrameworks": [".NET"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 73 },
+        { "year": 2021, "popularity": 75 },
+        { "year": 2022, "popularity": 72 },
+        { "year": 2023, "popularity": 75 }
+      ]
+    },
+    {
+      "name": "Java Spring",
+      "languages": ["JavaScript"],
+      "librariesFrameworks": ["Spring"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 73 },
+        { "year": 2021, "popularity": 75 },
+        { "year": 2022, "popularity": 72 },
+        { "year": 2023, "popularity": 75 }
+      ]
+    },
+    {
+      "name": "Ionic-React-Prisma-Supabase",
+      "languages": ["JavaScript", "TypeScript"],
+      "librariesFrameworks": ["Ionic", "React", "Prisma", "Supabase"],
+      "popularityOverTime": [
+        { "year": 2020, "popularity": 68 },
+        { "year": 2021, "popularity": 75 },
+        { "year": 2022, "popularity": 82 },
+        { "year": 2023, "popularity": 97 }
+      ]
+    }
+  ]
+}
